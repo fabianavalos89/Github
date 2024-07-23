@@ -1,0 +1,18 @@
+{
+  "orderID": 123456,
+  "adress": "junin 300",
+  "status": "ready",
+  "articles": [
+  {
+        "name":"carne",
+        "price": 5000,
+        "quantity": 2,
+        "dangerous": false
+    
+    }
+    ]
+
+
+    
+
+}
